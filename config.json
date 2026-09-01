@@ -1,0 +1,6 @@
+{
+  "app_name": "MyLauncher",
+  "current_version": "1.0.0",
+  "update_repo": "youruser/yourrepo",
+  "check_processes": ["Discord.exe", "steam.exe"]
+}
